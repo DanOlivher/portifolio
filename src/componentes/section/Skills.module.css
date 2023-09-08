@@ -1,0 +1,19 @@
+.skill{
+    background: rgba(1, 9, 28, 0.526);
+    border-radius: 10px;
+    margin: 7%;
+}
+
+.skill img{
+    margin: 25px;
+    height: 140px;
+}
+
+.skill h1{
+    padding-top: 50px;
+    font-size: 45px;
+}
+
+.skill p{
+    font-size: 23px;
+}

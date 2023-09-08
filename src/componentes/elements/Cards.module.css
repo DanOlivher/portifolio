@@ -1,0 +1,24 @@
+.cards{
+    display: flex;
+    margin: 20px;
+    justify-content: center;
+    
+}
+
+.cards img{
+    width: 400px;
+    border-radius: 20px;
+}
+
+.cards img:hover{
+    transform: translateY(-10px);
+    cursor: pointer;
+}
+
+.cards section{
+    background: rgba(1,9,28,0.78);
+    padding: 15px;
+    width: 500px;
+    margin-left: 15px;
+    border-radius: 20px;
+}
